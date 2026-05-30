@@ -9,6 +9,7 @@ A fan-translated version of the simulation game. This project ports and translat
 * **Platform:** Android
 * **Language:** Japanese (Original), Indonesian (Fan Translation)
 * **Genre & Tags:** 18+, Simulation, Pixel Art, Animated
+* **Download size:** 5.68 MB
 
 ---
 
